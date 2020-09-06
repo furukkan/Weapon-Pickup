@@ -1,2 +1,8 @@
 # Weapon-Pickup
- Weapon-Pickup - powerful. The odd one. 
+**A powerful weapon-pickup. The odd one.**
+
+included scripts:
+```
+PickupMain.cs
+WeaponPickup.cs
+```
